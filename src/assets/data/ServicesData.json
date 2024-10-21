@@ -1,0 +1,28 @@
+[{
+    "id": 0,
+    "img1": "delivery_red.svg",
+    "img2": "delivery_white.svg",
+    "title": "free shipping",
+    "slogan": "free shipping on all order"
+},
+{
+    "id": 1,
+    "img1": "guarantee_red.svg",
+    "img2": "gurantee_white.svg",
+    "title": "money guarantee",
+    "slogan": "30 day money back"
+},
+{
+    "id": 2,
+    "img1": "support_red.svg",
+    "img2": "support_white.svg",
+    "title": "online support 24/7",
+    "slogan": "technical support 24/7"
+},
+{
+    "id": 3,
+    "img1": "wallet_red.svg",
+    "img2": "wallet_white.svg",
+    "title": "secure payment",
+    "slogan": "all cards accepted"
+}]

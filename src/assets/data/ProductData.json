@@ -1,0 +1,109 @@
+[{
+    "id": 0,
+    "img": "/products/printer.png",
+    "img2": "",
+    "item": "printer",
+    "category": "office",
+    "price": "Rp.-",
+    "discounted": false
+
+},
+{
+    "id": 1,
+    "img": "/products/camera.png",
+    "img2": "",
+    "item": "camera",
+    "category": "photography",
+    "price": "Rp.-",
+    "discounted": false
+},
+{
+    "id": 2,
+    "img": "/products/speaker.png",
+    "img2": "",
+    "item": "speaker",
+    "category": "wireless",
+    "price": "Rp.-",
+    "discounted": false
+},
+{
+    "id": 3,
+    "img": "/products/pc.png",
+    "img2": "",
+    "item": "gaming PC",
+    "category": "computer",
+    "price": "Rp.-",
+    "discounted": false
+},
+{
+    "id": 4,
+    "img": "/products/mouse.png",
+    "img2": "",
+    "item": "mouse",
+    "category": "accessories",
+    "price": "Rp.-",
+    "discounted": false
+},
+{
+    "id": 5,
+    "img": "/products/tablet.png",
+    "img2": "",
+    "item": "tablet",
+    "category": "smartphone",
+    "price": "Rp.-",
+    "discounted": false
+},
+{
+    "id": 6,
+    "img": "/products/headset.png",
+    "img2": "",
+    "item": "headphone",
+    "category": "wireless",
+    "price": "Rp.-",
+    "discounted": true
+},
+{
+    "id": 7,
+    "img": "/products/gaming_laptop.png",
+    "img2": "/products/gaming_laptop_reverse.png",
+    "item": "ACER A715-76G-54XS Charcoal Black",
+    "category": "laptop",
+    "price": "Rp.10.609.000",
+    "discounted": false
+},
+{
+    "id": 8,
+    "img": "/products/earbuds.png",
+    "img2": "/products/earbuds_reverse.png",
+    "item": "ACER A715-76G-54XS Charcoal Black",
+    "category": "wireless",
+    "price": "Rp.10.609.000",
+    "discounted": false
+},
+{
+    "id": 9,
+    "img": "/products/phone.png",
+    "img2": "/products/phone_reverse.png",
+    "item": "ACER A715-76G-54XS Charcoal Black",
+    "category": "smartphone",
+    "price": "Rp.10.609.000",
+    "discounted": false
+},
+{
+    "id": 10,
+    "img": "/products/kindle.png",
+    "img2": "/products/kindle_reverse.png",
+    "item": "ACER A715-76G-54XS Charcoal Black",
+    "category": "office",
+    "price": "Rp.10.609.000",
+    "discounted": false
+},
+{
+    "id": 11,
+    "img": "/products/smartwatch.png",
+    "img2": "",
+    "item": "smartwatch",
+    "category": "watch",
+    "price": "Rp.-",
+    "discounted": true
+}]
