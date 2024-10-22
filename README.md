@@ -68,4 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # React-Chakra-UI-Ecommerce-Template
 
-
+[![Watch the video](https://github.com/bitacode/images/blob/main/thumbnail-1.png)](https://youtu.be/rsv17nl_qig)
