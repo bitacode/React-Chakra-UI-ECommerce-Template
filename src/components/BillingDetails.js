@@ -141,7 +141,7 @@ const BillingDetails = () => {
                     <Flex gap={10} my={10}>
                         <Box flex={1}>
                             <Heading >
-                                {screenSize}
+                                Billing Details
                             </Heading>
                             <FormControl>
                                 <HStack gap={5} my={5}>
